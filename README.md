@@ -57,7 +57,9 @@ Refer to create.sql for MySQL code
 
 ## MySQL Commands and ERD
 
-The commands and ERD are the same for both GCP and Azure databases
+The commands and ERD are the same for both GCP and Azure databases.
+
+The process of creating databases and tables went smoothly. The ERD creation process went well also.
 
 <b> Commands </b>
 
